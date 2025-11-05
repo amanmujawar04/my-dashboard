@@ -1,0 +1,12 @@
+[
+  {
+    "subject": "Unable to add new product to dashboard",
+    "description": "When I click the 'Add Product' button, nothing happens. No error message is shown, and the product isn't saved. This started after the last update.",
+    "_id": "1762163538583"
+  },
+  {
+    "subject": "Layout breaks on mobile view",
+    "description": "The dashboard layout becomes misaligned on smaller screens. The sidebar overlaps the main content and buttons become unclickable",
+    "_id": "1762163578250"
+  }
+]

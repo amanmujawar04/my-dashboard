@@ -1,0 +1,32 @@
+[
+  {
+    "title": "New Order Received",
+    "content": "You have a new order from John Doe. Please review and process it",
+    "_id": "1762163375872"
+  },
+  {
+    "title": "Payment Successful",
+    "content": "Payment of ₹2,499 has been successfully processed for Order #12345.",
+    "_id": "1762163391197"
+  },
+  {
+    "title": "New Client Registered",
+    "content": "A new client, Aman Sharma, has signed up.",
+    "_id": "1762163404745"
+  },
+  {
+    "title": "Order Shipped",
+    "content": "Order #12345 has been shipped and is on its way to the customer.",
+    "_id": "1762163420061"
+  },
+  {
+    "title": "Message from Support",
+    "content": "You have a new message from customer support.",
+    "_id": "1762163436277"
+  },
+  {
+    "title": "Product Low in Stock",
+    "content": "The stock for Wireless Mouse is below threshold. Consider restocking.",
+    "_id": "1762163452543"
+  }
+]
